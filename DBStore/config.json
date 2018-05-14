@@ -1,0 +1,8 @@
+{
+    "comment_":"This JSON contains the target host from where stat info is collected..",
+	"host":"64.103.196.51",
+        "port":"2376",
+    "collection":"timestamp"
+}
+
+

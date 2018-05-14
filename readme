@@ -1,0 +1,5 @@
+run 'source venv/bin/activate' to start virtualenv 'venv'.
+
+dashproject: front-end
+DBStore: back-end
+

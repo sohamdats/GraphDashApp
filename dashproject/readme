@@ -1,0 +1,7 @@
+files:
+
+      app4-1.py front end UI. Connects with dockerGuest.py mongoGuest.py.
+
+      dockerGuest.py: Getting list of containers and their info to be displayed in the 1st page.Sends it to app4-1.py
+
+      mongoGuest.py: Processes the data after retrieving from db and sends it to app4-1.py

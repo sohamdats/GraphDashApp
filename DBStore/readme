@@ -1,0 +1,9 @@
+Files:
+      config.json containers target host ip and monogdb collection name
+
+      dbstore.py : database storage
+
+      cron1.sh: crontab interval 1 minute, job 'python dbstore.py'
+
+      dbstore.log: logfile for db storage
+           
